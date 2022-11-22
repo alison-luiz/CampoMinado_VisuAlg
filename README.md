@@ -3,4 +3,4 @@
 ### Assistir vídeo de apresentação
 
 [![]()]()
-[![Vídeo de apresentação]([miniatura](https://prnt.sc/tEX694JGlUzw))]([video](https://www.youtube.com/watch?v=E8WD2XZK-fg) "Vídeo de apresentação")
+[![Vídeo de apresentação](https://prnt.sc/tEX694JGlUzw)](https://www.youtube.com/watch?v=E8WD2XZK-fg "Vídeo de apresentação")
